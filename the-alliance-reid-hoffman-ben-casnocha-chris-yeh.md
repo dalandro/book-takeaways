@@ -3,34 +3,9 @@
 
 ---
 
-## Chapter 1: Employment in the Networked Age
+## Transformational Tours of Duty 
+The middle ground between company loyalty and job-hopping
+- strategic tours of duty - intentional agreements between employer and employee that are mutually-beneficial missions. The employer gets some goodwill-based guarantee of a strategically valuable project or goal that the employee must execute on. The employee gets career growth opportunity through the mission, and is guided by the employer to achieve the mission. 
 
--
+## Employee Network Intelligence
 
-## Chapter 2: Tours of Duty
-
--
-
-## Chapter 3: Building Alignment in a Tour of Duty
-
--
-
-## Chapter 4: Implementing Transformational Tours of Duty
-
--
-
-## Chapter 5: Employee Network Intelligence
-
--
-
-## Chapter 6: Implementing Network Intelligence Programs
-
--
-
-## Chapter 7: Corporate Alumni Networks
-
--
-
-## Chapter 8: Implementing an Alumni Network
-
--
