@@ -9,8 +9,14 @@ https://www.audible.com.au/pd/1452652171
 - knowing how to be managed is also important, and knowing what to expect from a manager 
 - keep regular feedback to prevent surprises later 
 - keeping meetings focused and setting that expectation clearly 
-- being a facilitator and observing team dynamics (people are complicated) 
-- delegate simple-frequent tasks, handle simple-infrequent tasks yourself, and use complex-infrequent tasks as training opportunities (for rising leaders, but I'd say for anyone) 
+- part of debugging teams can be to observe team dynamics (people are complicated) - of course be careful of the observer effect 
+- delegation: 
+  - delegate simple-frequent tasks
+  - handle simple-infrequent tasks yourself
+  - use complex-infrequent tasks as training opportunities for rising leaders
+  - delegate complex-frequent tasks to develop your team 
+- don't prevaricate 
+- the virtues of laziness and impatience https://thethreevirtues.com/ 
 
 ## Further reading - rebuttle to First Team Mindset
 (Note: that concept is used as a reference in this book to another author's work (The Five Dysfunctions of a Team: A Leadership Fable - Patrick M. Lencioni) 
