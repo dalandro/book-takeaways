@@ -1,0 +1,7 @@
+# The Manager's Path by Camille Fournier https://www.audible.com.au/pd/1452652171
+
+## Further reading - rebuttle to First Team Mindset
+(Note: that concept is used as a reference in this book to another author's work (The Five Dysfunctions of a Team: A Leadership Fable - Patrick M. Lencioni) 
+
+There is a paradox claimed by the following article in response to the concept https://matt-schellhas.medium.com/the-first-team-paradox-5c61cc5ef405
+The TL:DR takeway is that the concept probably only applies to very senior leadership. I would personally articulate it as intended as a correction to common bad behaviour, but can be taken too far (balance is needed). The article also suggests treating "First team" as stakeholders, like customers, instead of your first team, so that they are put into focus without the manager fully disconnecting from their reports. 
