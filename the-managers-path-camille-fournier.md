@@ -2,7 +2,7 @@
 **Author:** Camille Fournier
 https://www.audible.com.au/pd/1452652171
 
---
+---
 
 ## Misc points,in no particular order
 - the need to stay technical, by purposefully keeping familiarity with the architecture and code bases 
