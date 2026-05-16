@@ -1,4 +1,6 @@
-# The Manager's Path by Camille Fournier https://www.audible.com.au/pd/1452652171
+# The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change
+**Author:** Camille Fournier
+https://www.audible.com.au/pd/1452652171
 
 ## Further reading - rebuttle to First Team Mindset
 (Note: that concept is used as a reference in this book to another author's work (The Five Dysfunctions of a Team: A Leadership Fable - Patrick M. Lencioni) 
