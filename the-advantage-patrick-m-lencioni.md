@@ -1,4 +1,3 @@
-The Advantage: Why Organizational Health Trumps Everything Else In Business
 # The Advantage: Why Organizational Health Trumps Everything Else In Business
 **Author:** Patrick M. Lencioni
 
