@@ -6,7 +6,7 @@
 
 ---
 
-## Balance between adhering to rites, and updating/rejecting them
+## My framing towards the software industry: Balance between adhering to rites, and updating/rejecting them
 
 Here's what I took away from recently reading The Analects; 
 
@@ -28,3 +28,6 @@ These ideas apply to software engineering. For example, ideas like CI/CD and the
 A conclusion we could draw is that the practices that you apply should depend on circumstances - there must be principles behind them, and to each situation you could apply a unique consideration of different principles to derive a suitable approach.
 
 ## Misc points, in no particular order
+- One of the author's interpretation of his style was to avoid prescribing a framework or methodology of thought, but instead the analects showcases a thought process, almost like it shows Confucius thinking aloud, interpreted to show how he would think deeply on a case-by-case basis.
+  - After reading Chin's introduction, I realise I have seen the "thinking aloud" characteristic in a tv show from a character based on the ancient statesman and legalist philosopher Shang Yang. Maybe that was intentional - he was set up as an admirable character, so maybe they are trying to show that he embodied fundamental aspects of Confucianism. 
+- Related to the above point, there is an emphasis on strongly weighing both ends of a problem before finalising an answer.
