@@ -35,3 +35,9 @@ But things go further than that;
 ### Quote by John Maynard Keynes
 "The difficulty lies, not in the new ideas, but in escaping from the old ones, which ramify, for those brought up as most of us have been, into every corner of our minds." - The General Theory of Employment, Interest and Money
 
+### misc notes
+- Creates flexibility, discomfort, abandons the illusion of control
+
+### Background - Holons https://en.wikipedia.org/wiki/Holon_(philosophy) 
+- "For the good of the whole" is a misrepresentation of reality
+  - There are multiple "whole"s - individuals, teams, organizations - you are trading off what's good for one "whole" against the good of another "whole".  
