@@ -7,9 +7,9 @@
 - unilateral approaches: 
   - Forcing 
   - Adapting 
-  - Backing out 
+  - Exiting
 - Collaboration 
-  - For this approach to be taken, all parties must see it as their only option; a party might know they can't force it without retaliation or too much resistance to handle successfully, or adapting might not be possible given the conditions, and one might not be able to back out of a situation.
+  - For this approach to be taken, all parties must see it as their only option; a party might know they can't force it without retaliation or too much resistance to handle successfully, or adapting might not be possible given the conditions, and one might not be able to exit a situation.
 
 ## Background - Conventional Collaboration 
 
@@ -35,9 +35,19 @@ But things go further than that;
 ### Quote by John Maynard Keynes
 "The difficulty lies, not in the new ideas, but in escaping from the old ones, which ramify, for those brought up as most of us have been, into every corner of our minds." - The General Theory of Employment, Interest and Money
 
-### misc notes
-- Creates flexibility, discomfort, abandons the illusion of control
+### Stretch 1 - Embrace both conflict and connection
 
-### Background - Holons https://en.wikipedia.org/wiki/Holon_(philosophy) 
+#### Background - Holons https://en.wikipedia.org/wiki/Holon_(philosophy) 
 - "For the good of the whole" is a misrepresentation of reality
-  - There are multiple "whole"s - individuals, teams, organizations - you are trading off what's good for one "whole" against the good of another "whole".  
+  - There are multiple "whole"s - individuals, teams, organizations - you are trading off what's good for one "whole" against the good of another "whole".
+
+- The idea of conflicting (but maybe intersecting) needs when it comes to "holons" means you can't avoid conflicts of interests.
+- Stretch collaboration involves balancing and alternating between what the author frames as "power and love".
+  - Forcing with power can lead to some kind of progress - too much and you eventually drift into unproductive conflict. Switch to "love" (more like conventional collaboration with how sympathetic it is).
+  - Love also helps foster another kind of progress - too much and you eventually become heavily burdened with constraints. Switch to "force"
+- An analogy can be the business world, where conflict is accepted as normal, as well as collaboration where joint efforts benefit everyone 
+
+### Stretch 2 - Experiment a way forward
+
+### Stretch 3 - "Step into the game" 
+
